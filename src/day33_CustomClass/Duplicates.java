@@ -39,8 +39,10 @@ public class Duplicates {
 
         list.addAll( Arrays.asList(1,1,2,3,4,5,5) );
 
+    }
 
 
+}
         list.removeIf( p -> Collections.frequency(list,p ) == 1  ); // if the object is unique, then we remove it
 
 

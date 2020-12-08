@@ -52,6 +52,8 @@ public class carObjects2 {
         Car[] cars = {car1, car2, car3};
 
 
+    }
+
 
         for(int i = 0; i < cars.length; i++){
 
@@ -97,6 +99,17 @@ public class carObjects2 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
         //String[] arr = {"A", "B", 123};
 
 
@@ -111,7 +124,7 @@ public class carObjects2 {
 
 
 
-    }
+}
 
 
 }

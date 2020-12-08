@@ -10,7 +10,7 @@ public class List_Intro {
 
         ArrayList<Integer> scores = new ArrayList<>(); // size : 0
                                     // add five elements, size: 5
-                                    // remove two elements, size:3
+        // remove two elements, size:3
 
                 scores.add(10);  // Autoboxing    size: 1
                 scores.add(20);  // Autoboxing,  size: 2

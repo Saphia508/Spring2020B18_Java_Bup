@@ -68,6 +68,9 @@ public class ExtractChars {
 
 
 
+
+}
+
         System.out.println(letters);
 
         System.out.println(digits);
